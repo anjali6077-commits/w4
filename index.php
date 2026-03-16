@@ -1,13 +1,5 @@
-<html><head><meta charset="UTF-8" class="subject-BRzdTkrZKH"/><link rel="stylesheet" href="styles.css" class="picture-loAUZrAI"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="thumbnail-ZlBwAcs"/><meta name="referrer" content="no-referrer" class="img-jXSAAUeKQtT"/><style> @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #555052; border-radius: 6px; } *::-webkit-scrollbar-thumb { background-color: #ead498; border-radius: 6px; border: 2px solid #555052; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>knowera.blog</title><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YTP08B4056"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YTP08B4056');
-</script>
-<!-- Google tag (gtag.js) -->
+<html><head><meta charset="UTF-8" class="subject-BRzdTkrZKH"/><link rel="stylesheet" href="styles.css" class="picture-loAUZrAI"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="thumbnail-ZlBwAcs"/><meta name="referrer" content="no-referrer" class="img-jXSAAUeKQtT"/><style> @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #555052; border-radius: 6px; } *::-webkit-scrollbar-thumb { background-color: #ead498; border-radius: 6px; border: 2px solid #555052; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>knowera.blog</title>
+  <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
